@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\shudhanshu\\Backend\\CarMarketAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B0F1-F3C2-40C7-92C4-1F72EDB43664}|CarMarketAPI\\CarMarketAPI.csproj|c:\\users\\admin\\downloads\\shudhanshu\\backend\\carmarketapi\\carmarketapi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B0F1-F3C2-40C7-92C4-1F72EDB43664}|CarMarketAPI\\CarMarketAPI.csproj|solutionrelative:carmarketapi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B0F1-F3C2-40C7-92C4-1F72EDB43664}|CarMarketAPI\\CarMarketAPI.csproj|c:\\users\\admin\\downloads\\shudhanshu\\backend\\carmarketapi\\carmarketapi\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B0F1-F3C2-40C7-92C4-1F72EDB43664}|CarMarketAPI\\CarMarketAPI.csproj|solutionrelative:carmarketapi\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2B0F1-F3C2-40C7-92C4-1F72EDB43664}|CarMarketAPI\\CarMarketAPI.csproj|c:\\users\\admin\\downloads\\shudhanshu\\backend\\carmarketapi\\carmarketapi\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2B0F1-F3C2-40C7-92C4-1F72EDB43664}|CarMarketAPI\\CarMarketAPI.csproj|solutionrelative:carmarketapi\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\shudhanshu\\Backend\\CarMarketAPI\\CarMarketAPI\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "CarMarketAPI\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\shudhanshu\\Backend\\CarMarketAPI\\CarMarketAPI\\Services\\CarService.cs",
+              "RelativeToolTip": "CarMarketAPI\\Services\\CarService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T20:26:25.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\shudhanshu\\Backend\\CarMarketAPI\\CarMarketAPI\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "CarMarketAPI\\Services\\ICarService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\shudhanshu\\Backend\\CarMarketAPI\\CarMarketAPI\\Services\\ICarService.cs",
+              "RelativeToolTip": "CarMarketAPI\\Services\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T20:26:04.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\shudhanshu\\Backend\\CarMarketAPI\\CarMarketAPI\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarMarketAPI\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\shudhanshu\\Backend\\CarMarketAPI\\CarMarketAPI\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarMarketAPI\\Controllers\\CarController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T20:25:58.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
